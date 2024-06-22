@@ -1,8 +1,10 @@
-### Hi there 👋
+
 
 I am a postdoctoral fellow at the University of Alberta specializing in species distribution modelling and the application of remote sensing in ecological research.
 
 <!--
+### Hi there 👋
+
 **bgcasey/bgcasey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

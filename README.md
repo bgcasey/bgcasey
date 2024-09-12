@@ -1,6 +1,6 @@
 
 
-I am an ecologist at the University of Alberta specializing in species distribution modelling and the application of remote sensing in ecological research.
+I am an ecologist specializing in species distribution modelling and the application of remote sensing in ecological research.
 
 <!--
 ### Hi there 👋

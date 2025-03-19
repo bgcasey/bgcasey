@@ -8,7 +8,6 @@ I am an ecologist specializing in species distribution modelling and the applica
 - Using LiDAR and Satellite Earth Observation data to improve Pileated Woodpecker habitat models.
 
 
-📫 [bgcasey@example.com](mailto:bgcasey@example.com)
 
 ---
 

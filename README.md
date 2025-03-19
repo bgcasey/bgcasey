@@ -1,6 +1,16 @@
-
+## About Me
 
 I am an ecologist specializing in species distribution modelling and the application of remote sensing in ecological research.
+
+🔭 I’m currently working on:
+- Developing regional invasive vascular plant indicators.
+- Integrating remote sensing into species modelling frameworks.
+- Using LiDAR and Satellite Earth Observation data to improve Pileated Woodpecker habitat models.
+
+
+📫 [bgcasey@example.com](mailto:bgcasey@example.com)
+
+---
 
 ## Skills
 

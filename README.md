@@ -7,7 +7,7 @@ I am an ecologist specializing in species distribution modelling and the applica
 - **Ecology:** Ecological modelling, Remote sensing, Spatial analyses, Wildlife monitoring
 - **GIS:** Google Earth Engine, ArcGIS, R
 - **Programming:** R, Python, JavaScript, Shell
-- 
+
 ## GitHub Stats
 
 ![bgcasey's GitHub stats](https://github-readme-stats.vercel.app/api?username=bgcasey&show_icons=true&theme=default)

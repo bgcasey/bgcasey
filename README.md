@@ -5,11 +5,11 @@ I am an ecologist specializing in species distribution modelling and the applica
 
 ## GitHub Stats
 
-![bgcasey's GitHub stats](https://github-readme-stats.vercel.app/api?username=bgcasey&show_icons=true&theme=radical)
+![bgcasey's GitHub stats](https://github-readme-stats.vercel.app/api?username=bgcasey&show_icons=true&theme=default)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bgcasey&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bgcasey&layout=compact&theme=default)
 
 
 

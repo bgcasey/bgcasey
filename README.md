@@ -2,6 +2,17 @@
 
 I am an ecologist specializing in species distribution modelling and the application of remote sensing in ecological research.
 
+
+## GitHub Stats
+
+![bgcasey's GitHub stats](https://github-readme-stats.vercel.app/api?username=bgcasey&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bgcasey&layout=compact&theme=radical)
+
+
+
 <!--
 ### Hi there 👋
 

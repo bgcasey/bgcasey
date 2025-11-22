@@ -20,7 +20,7 @@ I am an ecologist specializing in species distribution modelling and the applica
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bgcasey&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgcasey&langs_count=8&layout=compact&theme=default&hide=RMarkdown,Markdown)
 
 
 

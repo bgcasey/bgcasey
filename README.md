@@ -16,7 +16,7 @@ I am an ecologist specializing in species distribution modelling and the applica
 
 ## GitHub Stats
 
-![Brendan's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bgcasey&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bgcasey&show_icons=true&theme=default)
 
 ## Top Languages
 

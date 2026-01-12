@@ -14,7 +14,7 @@ I am an ecologist specializing in species distribution modelling and the applica
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bgcasey&langs_count=8&layout=compact&theme=default&hide=RMarkdown,Markdown)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bgcasey&langs_count=8&layout=compact&theme=default&hide=RMarkdown,Markdown,TeX)
 
 
 

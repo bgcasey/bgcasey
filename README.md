@@ -9,12 +9,12 @@ I am an ecologist specializing in species distribution modelling and the applica
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bgcasey&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bgcasey&show_icons=true&theme=default&cache_seconds=1800)
 
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bgcasey&langs_count=8&layout=compact&theme=default&hide=RMarkdown,Markdown)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bgcasey&langs_count=8&layout=compact&theme=default&hide=RMarkdown,Markdown&cache_seconds=1800)
 
 
 

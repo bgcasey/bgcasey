@@ -11,9 +11,8 @@ I am an ecologist specializing in species distribution modelling and the applica
 
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bgcasey&show_icons=true&hide_title=true&theme=default&cache_seconds=1800)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bgcasey&langs_count=8&hide_title=true&layout=compact&theme=default&hide=RMarkdown,Markdown&cache_seconds=1800)
-
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=bgcasey&show_icons=true&hide_title=true&theme=default&cache_seconds=1800)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=bgcasey&langs_count=8&hide_title=true&layout=compact&theme=default&hide=RMarkdown,Markdown&cache_seconds=1800)
 
 
 <!--
